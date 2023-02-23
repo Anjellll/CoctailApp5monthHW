@@ -9,10 +9,18 @@
 /* Begin PBXBuildFile section */
 		21A47A5B29A5A0A600CA5C28 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A47A5A29A5A0A600CA5C28 /* AppDelegate.swift */; };
 		21A47A5D29A5A0A600CA5C28 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A47A5C29A5A0A600CA5C28 /* SceneDelegate.swift */; };
-		21A47A5F29A5A0A600CA5C28 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A47A5E29A5A0A600CA5C28 /* ViewController.swift */; };
+		21A47A5F29A5A0A600CA5C28 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A47A5E29A5A0A600CA5C28 /* MainViewController.swift */; };
 		21A47A6229A5A0A600CA5C28 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21A47A6029A5A0A600CA5C28 /* Main.storyboard */; };
 		21A47A6429A5A0A800CA5C28 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21A47A6329A5A0A800CA5C28 /* Assets.xcassets */; };
 		21A47A6729A5A0A800CA5C28 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 21A47A6529A5A0A800CA5C28 /* LaunchScreen.storyboard */; };
+		21A47A8629A62D6000CA5C28 /* MainViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A47A8529A62D6000CA5C28 /* MainViewModel.swift */; };
+		21A47A8929A62D8600CA5C28 /* MainCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A47A8729A62D8600CA5C28 /* MainCollectionViewCell.swift */; };
+		21A47A8A29A62D8600CA5C28 /* MainCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 21A47A8829A62D8600CA5C28 /* MainCollectionViewCell.xib */; };
+		21A47A8D29A6CFF600CA5C28 /* Extension + UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A47A8C29A6CFF600CA5C28 /* Extension + UIView.swift */; };
+		21A47A8F29A6D30F00CA5C28 /* Coctails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A47A8E29A6D30F00CA5C28 /* Coctails.swift */; };
+		21A47A9129A6D38900CA5C28 /* NetworkLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A47A9029A6D38900CA5C28 /* NetworkLayer.swift */; };
+		21A47A9429A6F78B00CA5C28 /* CoctailPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A47A9229A6F78B00CA5C28 /* CoctailPageViewController.swift */; };
+		21A47A9729A787AF00CA5C28 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A47A9629A787AF00CA5C28 /* ProfileViewController.swift */; };
 		61832541278AF274D26D7A3F /* Pods_5_3_CoctailAppHW.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8231CC26ED69B66F10C35FD0 /* Pods_5_3_CoctailAppHW.framework */; };
 /* End PBXBuildFile section */
 
@@ -20,11 +28,19 @@
 		21A47A5729A5A0A600CA5C28 /* 5.3.CoctailAppHW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 5.3.CoctailAppHW.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21A47A5A29A5A0A600CA5C28 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		21A47A5C29A5A0A600CA5C28 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		21A47A5E29A5A0A600CA5C28 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		21A47A5E29A5A0A600CA5C28 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		21A47A6129A5A0A600CA5C28 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		21A47A6329A5A0A800CA5C28 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21A47A6629A5A0A800CA5C28 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		21A47A6829A5A0A800CA5C28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		21A47A8529A62D6000CA5C28 /* MainViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewModel.swift; sourceTree = "<group>"; };
+		21A47A8729A62D8600CA5C28 /* MainCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainCollectionViewCell.swift; sourceTree = "<group>"; };
+		21A47A8829A62D8600CA5C28 /* MainCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainCollectionViewCell.xib; sourceTree = "<group>"; };
+		21A47A8C29A6CFF600CA5C28 /* Extension + UIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension + UIView.swift"; sourceTree = "<group>"; };
+		21A47A8E29A6D30F00CA5C28 /* Coctails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coctails.swift; sourceTree = "<group>"; };
+		21A47A9029A6D38900CA5C28 /* NetworkLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkLayer.swift; sourceTree = "<group>"; };
+		21A47A9229A6F78B00CA5C28 /* CoctailPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoctailPageViewController.swift; sourceTree = "<group>"; };
+		21A47A9629A787AF00CA5C28 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		38BF4773B88361B32D4C8665 /* Pods-5.3.CoctailAppHW.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-5.3.CoctailAppHW.release.xcconfig"; path = "Target Support Files/Pods-5.3.CoctailAppHW/Pods-5.3.CoctailAppHW.release.xcconfig"; sourceTree = "<group>"; };
 		8231CC26ED69B66F10C35FD0 /* Pods_5_3_CoctailAppHW.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_5_3_CoctailAppHW.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAD4BB837F59A178273D39EF /* Pods-5.3.CoctailAppHW.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-5.3.CoctailAppHW.debug.xcconfig"; path = "Target Support Files/Pods-5.3.CoctailAppHW/Pods-5.3.CoctailAppHW.debug.xcconfig"; sourceTree = "<group>"; };
@@ -71,15 +87,175 @@
 		21A47A5929A5A0A600CA5C28 /* 5.3.CoctailAppHW */ = {
 			isa = PBXGroup;
 			children = (
-				21A47A5A29A5A0A600CA5C28 /* AppDelegate.swift */,
-				21A47A5C29A5A0A600CA5C28 /* SceneDelegate.swift */,
-				21A47A5E29A5A0A600CA5C28 /* ViewController.swift */,
+				21A47A6F29A5B90600CA5C28 /* App */,
+				21A47A8B29A6CF9000CA5C28 /* Extension */,
+				21A47A7029A62AC700CA5C28 /* Model */,
+				21A47A7129A62ADC00CA5C28 /* Modules */,
+				21A47A6E29A5B8F200CA5C28 /* Resources */,
+			);
+			path = 5.3.CoctailAppHW;
+			sourceTree = "<group>";
+		};
+		21A47A6E29A5B8F200CA5C28 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
 				21A47A6029A5A0A600CA5C28 /* Main.storyboard */,
 				21A47A6329A5A0A800CA5C28 /* Assets.xcassets */,
 				21A47A6529A5A0A800CA5C28 /* LaunchScreen.storyboard */,
 				21A47A6829A5A0A800CA5C28 /* Info.plist */,
 			);
-			path = 5.3.CoctailAppHW;
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		21A47A6F29A5B90600CA5C28 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				21A47A5C29A5A0A600CA5C28 /* SceneDelegate.swift */,
+				21A47A5A29A5A0A600CA5C28 /* AppDelegate.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		21A47A7029A62AC700CA5C28 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				21A47A8429A62C8500CA5C28 /* DTOs */,
+				21A47A8329A62C7B00CA5C28 /* Networklayer */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		21A47A7129A62ADC00CA5C28 /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+				21A47A7929A62BF600CA5C28 /* ProfileWorkFlow */,
+				21A47A7829A62BE100CA5C28 /* CoctailPageWorkFlow */,
+				21A47A7229A62B2900CA5C28 /* MainWorkFlow */,
+			);
+			path = Modules;
+			sourceTree = "<group>";
+		};
+		21A47A7229A62B2900CA5C28 /* MainWorkFlow */ = {
+			isa = PBXGroup;
+			children = (
+				21A47A7B29A62C1000CA5C28 /* Components */,
+				21A47A7A29A62C0400CA5C28 /* ViewModel */,
+				21A47A7529A62B6E00CA5C28 /* View */,
+			);
+			path = MainWorkFlow;
+			sourceTree = "<group>";
+		};
+		21A47A7529A62B6E00CA5C28 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				21A47A5E29A5A0A600CA5C28 /* MainViewController.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		21A47A7829A62BE100CA5C28 /* CoctailPageWorkFlow */ = {
+			isa = PBXGroup;
+			children = (
+				21A47A7E29A62C2C00CA5C28 /* Components */,
+				21A47A7D29A62C2500CA5C28 /* ViewModel */,
+				21A47A7C29A62C1E00CA5C28 /* View */,
+			);
+			path = CoctailPageWorkFlow;
+			sourceTree = "<group>";
+		};
+		21A47A7929A62BF600CA5C28 /* ProfileWorkFlow */ = {
+			isa = PBXGroup;
+			children = (
+				21A47A8229A62C5500CA5C28 /* Components */,
+				21A47A8129A62C4A00CA5C28 /* ViewModel */,
+				21A47A7F29A62C3C00CA5C28 /* View */,
+			);
+			path = ProfileWorkFlow;
+			sourceTree = "<group>";
+		};
+		21A47A7A29A62C0400CA5C28 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				21A47A8529A62D6000CA5C28 /* MainViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		21A47A7B29A62C1000CA5C28 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				21A47A8729A62D8600CA5C28 /* MainCollectionViewCell.swift */,
+				21A47A8829A62D8600CA5C28 /* MainCollectionViewCell.xib */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		21A47A7C29A62C1E00CA5C28 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				21A47A9229A6F78B00CA5C28 /* CoctailPageViewController.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		21A47A7D29A62C2500CA5C28 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		21A47A7E29A62C2C00CA5C28 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		21A47A7F29A62C3C00CA5C28 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				21A47A9629A787AF00CA5C28 /* ProfileViewController.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		21A47A8129A62C4A00CA5C28 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		21A47A8229A62C5500CA5C28 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
+		21A47A8329A62C7B00CA5C28 /* Networklayer */ = {
+			isa = PBXGroup;
+			children = (
+				21A47A9029A6D38900CA5C28 /* NetworkLayer.swift */,
+			);
+			path = Networklayer;
+			sourceTree = "<group>";
+		};
+		21A47A8429A62C8500CA5C28 /* DTOs */ = {
+			isa = PBXGroup;
+			children = (
+				21A47A8E29A6D30F00CA5C28 /* Coctails.swift */,
+			);
+			path = DTOs;
+			sourceTree = "<group>";
+		};
+		21A47A8B29A6CF9000CA5C28 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				21A47A8C29A6CFF600CA5C28 /* Extension + UIView.swift */,
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 		8F8D8E52ECE5A19260BCDF08 /* Pods */ = {
@@ -88,7 +264,6 @@
 				CAD4BB837F59A178273D39EF /* Pods-5.3.CoctailAppHW.debug.xcconfig */,
 				38BF4773B88361B32D4C8665 /* Pods-5.3.CoctailAppHW.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -155,6 +330,7 @@
 				21A47A6729A5A0A800CA5C28 /* LaunchScreen.storyboard in Resources */,
 				21A47A6429A5A0A800CA5C28 /* Assets.xcassets in Resources */,
 				21A47A6229A5A0A600CA5C28 /* Main.storyboard in Resources */,
+				21A47A8A29A62D8600CA5C28 /* MainCollectionViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -207,9 +383,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				21A47A5F29A5A0A600CA5C28 /* ViewController.swift in Sources */,
+				21A47A5F29A5A0A600CA5C28 /* MainViewController.swift in Sources */,
 				21A47A5B29A5A0A600CA5C28 /* AppDelegate.swift in Sources */,
+				21A47A9729A787AF00CA5C28 /* ProfileViewController.swift in Sources */,
+				21A47A8D29A6CFF600CA5C28 /* Extension + UIView.swift in Sources */,
+				21A47A8929A62D8600CA5C28 /* MainCollectionViewCell.swift in Sources */,
+				21A47A9129A6D38900CA5C28 /* NetworkLayer.swift in Sources */,
 				21A47A5D29A5A0A600CA5C28 /* SceneDelegate.swift in Sources */,
+				21A47A8F29A6D30F00CA5C28 /* Coctails.swift in Sources */,
+				21A47A9429A6F78B00CA5C28 /* CoctailPageViewController.swift in Sources */,
+				21A47A8629A62D6000CA5C28 /* MainViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -358,7 +541,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = 5.3.CoctailAppHW/Info.plist;
+				INFOPLIST_FILE = 5.3.CoctailAppHW/Resources/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -386,7 +569,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = 5.3.CoctailAppHW/Info.plist;
+				INFOPLIST_FILE = 5.3.CoctailAppHW/Resources/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="MainCollectionViewCell" id="gTV-IL-0wX" customClass="MainCollectionViewCell" customModule="__3_CoctailAppHW" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="180" height="260"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="180" height="260"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OQ6-9m-yy1">
+                        <rect key="frame" x="18" y="180" width="144" height="24"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="144" id="6ap-oA-eD1"/>
+                            <constraint firstAttribute="height" constant="24" id="gsy-ve-OML"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="Avenir-Book" family="Avenir" pointSize="17"/>
+                        <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eC3-Gr-HPZ">
+                        <rect key="frame" x="50.666666666666657" y="221" width="79" height="24"/>
+                        <color key="backgroundColor" name="Orange"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="24" id="xkj-WU-ZFS"/>
+                            <constraint firstAttribute="width" constant="79" id="zCt-Wf-kxU"/>
+                        </constraints>
+                        <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <state key="normal" title="Button"/>
+                        <buttonConfiguration key="configuration" style="plain" title="Buy now">
+                            <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="8"/>
+                        </buttonConfiguration>
+                    </button>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="oms-TG-NDE">
+                        <rect key="frame" x="30" y="40" width="120" height="120"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="120" id="3cN-g2-2NU"/>
+                            <constraint firstAttribute="width" constant="120" id="O2I-to-XXa"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstItem="oms-TG-NDE" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="30" id="1TZ-La-Nno"/>
+                <constraint firstItem="oms-TG-NDE" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="40" id="6Jt-ul-Afh"/>
+                <constraint firstAttribute="trailing" secondItem="OQ6-9m-yy1" secondAttribute="trailing" constant="18" id="8Rz-lp-yCJ"/>
+                <constraint firstItem="OQ6-9m-yy1" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="18" id="CbN-ml-jzv"/>
+                <constraint firstItem="OQ6-9m-yy1" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="180" id="JGy-SP-U4P"/>
+                <constraint firstItem="eC3-Gr-HPZ" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="50.670000000000002" id="WE1-hJ-Uv4"/>
+                <constraint firstAttribute="trailing" secondItem="oms-TG-NDE" secondAttribute="trailing" constant="30" id="WFG-14-cTh"/>
+                <constraint firstItem="eC3-Gr-HPZ" firstAttribute="top" secondItem="OQ6-9m-yy1" secondAttribute="bottom" constant="17" id="bWp-pJ-jud"/>
+                <constraint firstAttribute="trailing" secondItem="eC3-Gr-HPZ" secondAttribute="trailing" constant="50.329999999999998" id="pQa-Nz-Afl"/>
+                <constraint firstItem="oms-TG-NDE" firstAttribute="centerX" secondItem="gTV-IL-0wX" secondAttribute="centerX" id="vtp-WA-QyK"/>
+            </constraints>
+            <connections>
+                <outlet property="buyButton" destination="eC3-Gr-HPZ" id="ipn-vE-J4i"/>
+                <outlet property="coctailImageView" destination="oms-TG-NDE" id="QoL-Pn-JUB"/>
+                <outlet property="coctailNameLabel" destination="OQ6-9m-yy1" id="GaE-Mv-f3u"/>
+            </connections>
+            <point key="canvasLocation" x="24.427480916030532" y="-11.267605633802818"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <namedColor name="Orange">
+            <color red="0.93333339689999995" green="0.50196081400000003" blue="0.38823530080000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+        </namedColor>
+    </resources>
+</document>
