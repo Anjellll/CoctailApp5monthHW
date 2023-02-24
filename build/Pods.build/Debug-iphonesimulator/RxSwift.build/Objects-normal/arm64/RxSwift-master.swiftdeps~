@@ -1,0 +1,325 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "484ec53494ed329b2e691017954795f04a4769cd6b0b2bc284b009c9b39a6cec"
+build_start_time: [1677178871, 252358913]
+build_end_time: [1677178872, 551321029]
+inputs:
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/Platform/AtomicInt.swift"
+  : !private [1677031951, 352776527]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/Platform/DataStructures/Bag.swift"
+  : !private [1677031951, 353059768]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/Platform/DataStructures/InfiniteSequence.swift"
+  : !private [1677031951, 353685855]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/Platform/DataStructures/PriorityQueue.swift"
+  : !private [1677031951, 353214025]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/Platform/DataStructures/Queue.swift"
+  : !private [1677031951, 353520870]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/Platform/DispatchQueue+Extensions.swift"
+  : !private [1677031951, 352604389]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/Platform/Platform.Darwin.swift"
+  : !private [1677031951, 352234840]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/Platform/Platform.Linux.swift"
+  : !private [1677031951, 353904485]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/Platform/RecursiveLock.swift"
+  : !private [1677031951, 354078054]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/AnyObserver.swift"
+  : !private [1677031951, 322855710]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Binder.swift"
+  : !private [1677031951, 339350461]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Cancelable.swift"
+  : !private [1677031951, 317233085]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Concurrency/AsyncLock.swift"
+  : !private [1677031951, 343241691]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Concurrency/Lock.swift"
+  : !private [1677031951, 342928409]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Concurrency/LockOwnerType.swift"
+  : !private [1677031951, 341742992]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Concurrency/SynchronizedDisposeType.swift"
+  : !private [1677031951, 342033863]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Concurrency/SynchronizedOnType.swift"
+  : !private [1677031951, 342745542]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Concurrency/SynchronizedUnsubscribeType.swift"
+  : !private [1677031951, 343634128]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/ConnectableObservableType.swift"
+  : !private [1677031951, 346195220]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Date+Dispatch.swift"
+  : !private [1677031951, 344104290]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Disposable.swift"
+  : !private [1677031951, 339660644]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Disposables/AnonymousDisposable.swift"
+  : !private [1677031951, 325638771]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Disposables/BinaryDisposable.swift"
+  : !private [1677031951, 325477600]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Disposables/BooleanDisposable.swift"
+  : !private [1677031951, 325785636]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Disposables/CompositeDisposable.swift"
+  : !private [1677031951, 324547767]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Disposables/Disposables.swift"
+  : !private [1677031951, 325944423]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Disposables/DisposeBag.swift"
+  : !private [1677031951, 323500633]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Disposables/DisposeBase.swift"
+  : !private [1677031951, 323344230]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Disposables/NopDisposable.swift"
+  : !private [1677031951, 323825359]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Disposables/RefCountDisposable.swift"
+  : !private [1677031951, 324310779]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Disposables/ScheduledDisposable.swift"
+  : !private [1677031951, 323673725]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Disposables/SerialDisposable.swift"
+  : !private [1677031951, 325305938]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Disposables/SingleAssignmentDisposable.swift"
+  : !private [1677031951, 325084209]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Disposables/SubscriptionDisposable.swift"
+  : !private [1677031951, 323999881]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Errors.swift"
+  : !private [1677031951, 346565246]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Event.swift"
+  : !private [1677031951, 318114757]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Extensions/Bag+Rx.swift"
+  : !private [1677031951, 340990781]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/GroupedObservable.swift"
+  : !private [1677031951, 317481517]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/ImmediateSchedulerType.swift"
+  : !private [1677031951, 351816177]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observable+Concurrency.swift"
+  : !private [1677031951, 318277597]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observable.swift"
+  : !private [1677031951, 345713615]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/ObservableConvertibleType.swift"
+  : !private [1677031951, 345545530]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/ObservableType+Extensions.swift"
+  : !private [1677031951, 340518951]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/ObservableType.swift"
+  : !private [1677031951, 346387147]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/AddRef.swift"
+  : !private [1677031951, 331359624]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Amb.swift"
+  : !private [1677031951, 335101127]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/AsMaybe.swift"
+  : !private [1677031951, 326523303]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/AsSingle.swift"
+  : !private [1677031951, 330321311]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Buffer.swift"
+  : !private [1677031951, 327478408]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Catch.swift"
+  : !private [1677031951, 334749221]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/CombineLatest+Collection.swift"
+  : !private [1677031951, 332685470]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/CombineLatest+arity.swift"
+  : !private [1677031951, 335578918]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/CombineLatest.swift"
+  : !private [1677031951, 329460144]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/CompactMap.swift"
+  : !private [1677031951, 332211494]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Concat.swift"
+  : !private [1677031951, 328631401]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Create.swift"
+  : !private [1677031951, 338812828]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Debounce.swift"
+  : !private [1677031951, 334156990]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Debug.swift"
+  : !private [1677031951, 335982799]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Decode.swift"
+  : !private [1677031951, 333112955]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/DefaultIfEmpty.swift"
+  : !private [1677031951, 327718496]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Deferred.swift"
+  : !private [1677031951, 327353477]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Delay.swift"
+  : !private [1677031951, 327973365]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/DelaySubscription.swift"
+  : !private [1677031951, 333248853]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Dematerialize.swift"
+  : !private [1677031951, 334325551]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/DistinctUntilChanged.swift"
+  : !private [1677031951, 330857515]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Do.swift"
+  : !private [1677031951, 327229499]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/ElementAt.swift"
+  : !private [1677031951, 338653564]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Empty.swift"
+  : !private [1677031951, 330518960]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Enumerated.swift"
+  : !private [1677031951, 330692291]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Error.swift"
+  : !private [1677031951, 329163074]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Filter.swift"
+  : !private [1677031951, 334946155]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/First.swift"
+  : !private [1677031951, 331010818]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Generate.swift"
+  : !private [1677031951, 337680816]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/GroupBy.swift"
+  : !private [1677031951, 328460216]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Just.swift"
+  : !private [1677031951, 337177038]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Map.swift"
+  : !private [1677031951, 336530208]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Materialize.swift"
+  : !private [1677031951, 338982105]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Merge.swift"
+  : !private [1677031951, 336261272]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Multicast.swift"
+  : !private [1677031951, 332839965]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Never.swift"
+  : !private [1677031951, 326947212]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/ObserveOn.swift"
+  : !private [1677031951, 332517623]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Optional.swift"
+  : !private [1677031951, 337516307]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Producer.swift"
+  : !private [1677031951, 328307390]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Range.swift"
+  : !private [1677031951, 332047700]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Reduce.swift"
+  : !private [1677031951, 335324287]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Repeat.swift"
+  : !private [1677031951, 333380460]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/RetryWhen.swift"
+  : !private [1677031951, 327104806]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Sample.swift"
+  : !private [1677031951, 329864501]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Scan.swift"
+  : !private [1677031951, 338016510]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Sequence.swift"
+  : !private [1677031951, 331548452]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/ShareReplayScope.swift"
+  : !private [1677031951, 337862014]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/SingleAsync.swift"
+  : !private [1677031951, 339146614]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Sink.swift"
+  : !private [1677031951, 331689357]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Skip.swift"
+  : !private [1677031951, 336407423]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/SkipUntil.swift"
+  : !private [1677031951, 336836338]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/SkipWhile.swift"
+  : !private [1677031951, 332981586]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/StartWith.swift"
+  : !private [1677031951, 336992740]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/SubscribeOn.swift"
+  : !private [1677031951, 327596187]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Switch.swift"
+  : !private [1677031951, 333697319]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/SwitchIfEmpty.swift"
+  : !private [1677031951, 338479757]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Take.swift"
+  : !private [1677031951, 328874111]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/TakeLast.swift"
+  : !private [1677031951, 329021453]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/TakeWithPredicate.swift"
+  : !private [1677031951, 337333202]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Throttle.swift"
+  : !private [1677031951, 331840991]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Timeout.swift"
+  : !private [1677031951, 326784610]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Timer.swift"
+  : !private [1677031951, 331170558]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/ToArray.swift"
+  : !private [1677031951, 333528041]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Using.swift"
+  : !private [1677031951, 327836990]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Window.swift"
+  : !private [1677031951, 333991050]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/WithLatestFrom.swift"
+  : !private [1677031951, 332370758]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/WithUnretained.swift"
+  : !private [1677031951, 328750848]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Zip+Collection.swift"
+  : !private [1677031951, 334579944]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Zip+arity.swift"
+  : !private [1677031951, 338304996]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observables/Zip.swift"
+  : !private [1677031951, 335771322]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/ObserverType.swift"
+  : !private [1677031951, 341263294]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observers/AnonymousObserver.swift"
+  : !private [1677031951, 347771406]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observers/ObserverBase.swift"
+  : !private [1677031951, 347149372]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Observers/TailRecursiveSink.swift"
+  : !private [1677031951, 347510337]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Reactive.swift"
+  : !private [1677031951, 343871116]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Rx.swift"
+  : !private [1677031951, 346740722]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/RxMutableBox.swift"
+  : !private [1677031951, 317888498]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/SchedulerType.swift"
+  : !private [1677031951, 345956802]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Schedulers/ConcurrentDispatchQueueScheduler.swift"
+  : !private [1677031951, 349348306]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Schedulers/ConcurrentMainScheduler.swift"
+  : !private [1677031951, 350842714]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Schedulers/CurrentThreadScheduler.swift"
+  : !private [1677031951, 348968505]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Schedulers/HistoricalScheduler.swift"
+  : !private [1677031951, 351219415]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Schedulers/HistoricalSchedulerTimeConverter.swift"
+  : !private [1677031951, 351631641]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Schedulers/Internal/DispatchQueueConfiguration.swift"
+  : !private [1677031951, 350315093]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Schedulers/Internal/InvocableScheduledItem.swift"
+  : !private [1677031951, 350143671]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Schedulers/Internal/InvocableType.swift"
+  : !private [1677031951, 349992990]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Schedulers/Internal/ScheduledItem.swift"
+  : !private [1677031951, 349827527]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Schedulers/Internal/ScheduledItemType.swift"
+  : !private [1677031951, 350541591]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Schedulers/MainScheduler.swift"
+  : !private [1677031951, 349132537]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Schedulers/OperationQueueScheduler.swift"
+  : !private [1677031951, 348440647]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Schedulers/RecursiveScheduler.swift"
+  : !private [1677031951, 348249435]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Schedulers/SchedulerServices+Emulation.swift"
+  : !private [1677031951, 348789691]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Schedulers/SerialDispatchQueueScheduler.swift"
+  : !private [1677031951, 351061820]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Schedulers/VirtualTimeConverterType.swift"
+  : !private [1677031951, 351393222]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Schedulers/VirtualTimeScheduler.swift"
+  : !private [1677031951, 348620891]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Subjects/AsyncSubject.swift"
+  : !private [1677031951, 344985961]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Subjects/BehaviorSubject.swift"
+  : !private [1677031951, 344800472]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Subjects/PublishSubject.swift"
+  : !private [1677031951, 345361232]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Subjects/ReplaySubject.swift"
+  : !private [1677031951, 345174789]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Subjects/SubjectType.swift"
+  : !private [1677031951, 344623804]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/SwiftSupport/SwiftSupport.swift"
+  : !private [1677031951, 340249538]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Traits/Infallible/Infallible+CombineLatest+arity.swift"
+  : !private [1677031951, 321932077]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Traits/Infallible/Infallible+Concurrency.swift"
+  : !private [1677031951, 321328639]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Traits/Infallible/Infallible+Create.swift"
+  : !private [1677031951, 321487426]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Traits/Infallible/Infallible+Operators.swift"
+  : !private [1677031951, 321767330]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Traits/Infallible/Infallible+Zip+arity.swift"
+  : !private [1677031951, 321190118]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Traits/Infallible/Infallible.swift"
+  : !private [1677031951, 322121381]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Traits/Infallible/ObservableConvertibleType+Infallible.swift"
+  : !private [1677031951, 322539806]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Traits/PrimitiveSequence/Completable+AndThen.swift"
+  : !private [1677031951, 319063663]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Traits/PrimitiveSequence/Completable.swift"
+  : !private [1677031951, 319245100]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Traits/PrimitiveSequence/Maybe.swift"
+  : !private [1677031951, 319962978]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Traits/PrimitiveSequence/ObservableType+PrimitiveSequence.swift"
+  : !private [1677031951, 320265054]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Traits/PrimitiveSequence/PrimitiveSequence+Concurrency.swift"
+  : !private [1677031951, 320743083]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Traits/PrimitiveSequence/PrimitiveSequence+Zip+arity.swift"
+  : !private [1677031951, 320565700]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Traits/PrimitiveSequence/PrimitiveSequence.swift"
+  : !private [1677031951, 319708347]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxSwift/RxSwift/Traits/PrimitiveSequence/Single.swift"
+  : !private [1677031951, 319483757]

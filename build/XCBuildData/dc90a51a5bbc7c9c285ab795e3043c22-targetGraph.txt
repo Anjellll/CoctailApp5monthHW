@@ -1,0 +1,104 @@
+Target dependency graph (25 targets)
+Alamofire in Pods, no dependencies
+BoringSSL-GRPC in Pods, no dependencies
+PromisesObjC in Pods, no dependencies
+GoogleUtilities in Pods, depends on:
+PromisesObjC in Pods (explicit)
+FirebaseCoreInternal in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+FirebaseCore in Pods, depends on:
+FirebaseCoreInternal in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+FirebaseInstallations in Pods, depends on:
+FirebaseCore in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+nanopb in Pods, no dependencies
+GoogleAppMeasurement in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseAnalytics in Pods, depends on:
+FirebaseCore in Pods (explicit)
+FirebaseInstallations in Pods (explicit)
+GoogleAppMeasurement in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+GTMSessionFetcher in Pods, no dependencies
+FirebaseAuth in Pods, depends on:
+FirebaseCore in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+Firebase in Pods, depends on:
+FirebaseAnalytics in Pods (explicit)
+FirebaseAuth in Pods (explicit)
+FirebaseCore in Pods (explicit)
+abseil in Pods, no dependencies
+Libuv-gRPC in Pods, no dependencies
+gRPC-Core in Pods, depends on:
+BoringSSL-GRPC in Pods (explicit)
+Libuv-gRPC in Pods (explicit)
+abseil in Pods (explicit)
+gRPC-C++-gRPCCertificates-Cpp in Pods, depends on:
+abseil in Pods (implicit dependency via options '-framework absl' in build setting 'OTHER_LDFLAGS')
+gRPC-Core in Pods (implicit dependency via options '-framework grpc' in build setting 'OTHER_LDFLAGS')
+gRPC-C++ in Pods, depends on:
+abseil in Pods (explicit)
+gRPC-C++-gRPCCertificates-Cpp in Pods (explicit)
+gRPC-Core in Pods (explicit)
+leveldb-library in Pods, no dependencies
+FirebaseFirestore in Pods, depends on:
+FirebaseCore in Pods (explicit)
+abseil in Pods (explicit)
+gRPC-C++ in Pods (explicit)
+leveldb-library in Pods (explicit)
+nanopb in Pods (explicit)
+RxSwift in Pods, no dependencies
+RxRelay in Pods, depends on:
+RxSwift in Pods (explicit)
+RxCocoa in Pods, depends on:
+RxRelay in Pods (explicit)
+RxSwift in Pods (explicit)
+Pods-5.3.CoctailAppHW in Pods, depends on:
+Alamofire in Pods (explicit)
+BoringSSL-GRPC in Pods (explicit)
+Firebase in Pods (explicit)
+FirebaseAnalytics in Pods (explicit)
+FirebaseAuth in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseCoreInternal in Pods (explicit)
+FirebaseFirestore in Pods (explicit)
+FirebaseInstallations in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleAppMeasurement in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+Libuv-gRPC in Pods (explicit)
+PromisesObjC in Pods (explicit)
+RxCocoa in Pods (explicit)
+RxRelay in Pods (explicit)
+RxSwift in Pods (explicit)
+abseil in Pods (explicit)
+gRPC-C++ in Pods (explicit)
+gRPC-Core in Pods (explicit)
+leveldb-library in Pods (explicit)
+nanopb in Pods (explicit)
+5.3.CoctailAppHW in 5.3.CoctailAppHW, depends on:
+Pods-5.3.CoctailAppHW in Pods (implicit dependency via file 'Pods_5_3_CoctailAppHW.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')
+PromisesObjC in Pods (implicit dependency via options '-framework FBLPromises' in build setting 'OTHER_LDFLAGS')
+FirebaseAuth in Pods (implicit dependency via options '-framework FirebaseAuth' in build setting 'OTHER_LDFLAGS')
+FirebaseCore in Pods (implicit dependency via options '-framework FirebaseCore' in build setting 'OTHER_LDFLAGS')
+FirebaseCoreInternal in Pods (implicit dependency via options '-framework FirebaseCoreInternal' in build setting 'OTHER_LDFLAGS')
+FirebaseFirestore in Pods (implicit dependency via options '-framework FirebaseFirestore' in build setting 'OTHER_LDFLAGS')
+FirebaseInstallations in Pods (implicit dependency via options '-framework FirebaseInstallations' in build setting 'OTHER_LDFLAGS')
+GTMSessionFetcher in Pods (implicit dependency via options '-framework GTMSessionFetcher' in build setting 'OTHER_LDFLAGS')
+GoogleUtilities in Pods (implicit dependency via options '-framework GoogleUtilities' in build setting 'OTHER_LDFLAGS')
+RxCocoa in Pods (implicit dependency via options '-framework RxCocoa' in build setting 'OTHER_LDFLAGS')
+RxRelay in Pods (implicit dependency via options '-framework RxRelay' in build setting 'OTHER_LDFLAGS')
+RxSwift in Pods (implicit dependency via options '-framework RxSwift' in build setting 'OTHER_LDFLAGS')
+abseil in Pods (implicit dependency via options '-framework absl' in build setting 'OTHER_LDFLAGS')
+gRPC-Core in Pods (implicit dependency via options '-framework grpc' in build setting 'OTHER_LDFLAGS')
+gRPC-C++ in Pods (implicit dependency via options '-framework grpcpp' in build setting 'OTHER_LDFLAGS')
+leveldb-library in Pods (implicit dependency via options '-framework leveldb' in build setting 'OTHER_LDFLAGS')
+nanopb in Pods (implicit dependency via options '-framework nanopb' in build setting 'OTHER_LDFLAGS')
+BoringSSL-GRPC in Pods (implicit dependency via options '-framework openssl_grpc' in build setting 'OTHER_LDFLAGS')
+Libuv-gRPC in Pods (implicit dependency via options '-framework uv' in build setting 'OTHER_LDFLAGS')

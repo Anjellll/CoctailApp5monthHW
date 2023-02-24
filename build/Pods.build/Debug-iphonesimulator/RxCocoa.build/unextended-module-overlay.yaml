@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/build/Pods.build/Debug-iphonesimulator/RxCocoa.build/unextended-module.modulemap",
+    }]
+  }]
+}

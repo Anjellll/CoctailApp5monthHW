@@ -1,0 +1,6 @@
+framework module Pods_5_3_CoctailAppHW {
+  umbrella header "Pods-5.3.CoctailAppHW-umbrella.h"
+
+  export *
+  module * { export * }
+}

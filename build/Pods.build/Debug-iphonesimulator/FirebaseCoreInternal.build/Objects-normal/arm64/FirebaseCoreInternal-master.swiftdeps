@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "3fdb91a89ca5565ad04aa8b73a53ecadcfcd51b8942aa97956af91de5e8335c5"
+build_start_time: [1677178871, 891984939]
+build_end_time: [1677178925, 389844894]
+inputs:
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : [1677031948, 815988063]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1677031948, 816763401]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1677031948, 817054986]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1677031948, 817233800]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1677031948, 817636489]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : [1677031948, 816441774]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : [1677031948, 815437316]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1677031948, 817824363]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1677031948, 817425012]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1677031948, 816611289]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1677031948, 816911697]

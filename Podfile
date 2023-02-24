@@ -13,6 +13,6 @@ pod 'FirebaseFirestore'
 pod 'Firebase'
 pod 'Firebase/Core'
 pod 'Firebase/Auth'
-
+pod 'Kingfisher'
 
 end

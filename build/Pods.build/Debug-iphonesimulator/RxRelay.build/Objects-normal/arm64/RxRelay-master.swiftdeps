@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "7f1b3203ef90592d16c98e0d5e63ce231a7d5e23e0e599784952300863bb5fdf"
+build_start_time: [1677178899, 526422977]
+build_end_time: [1677178925, 825302124]
+inputs:
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxRelay/RxRelay/BehaviorRelay.swift"
+  : [1677031951, 312937974]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxRelay/RxRelay/Observable+Bind.swift"
+  : [1677031951, 312545776]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxRelay/RxRelay/PublishRelay.swift"
+  : [1677031951, 311736345]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxRelay/RxRelay/ReplayRelay.swift"
+  : [1677031951, 312108516]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/Pods/RxRelay/RxRelay/Utils.swift"
+  : [1677031951, 312736988]

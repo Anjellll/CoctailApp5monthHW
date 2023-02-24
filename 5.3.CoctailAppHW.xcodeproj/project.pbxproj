@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2150E7EB29A7F267000E0775 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2150E7E929A7F216000E0775 /* GoogleService-Info.plist */; };
+		21A22C9E29A82592004A349D /* KeyChainManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A22C9D29A82592004A349D /* KeyChainManager.swift */; };
+		21A22CA029A825AB004A349D /* UserDefaultManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A22C9F29A825AB004A349D /* UserDefaultManager.swift */; };
 		21A47A5B29A5A0A600CA5C28 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A47A5A29A5A0A600CA5C28 /* AppDelegate.swift */; };
 		21A47A5D29A5A0A600CA5C28 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A47A5C29A5A0A600CA5C28 /* SceneDelegate.swift */; };
 		21A47A5F29A5A0A600CA5C28 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A47A5E29A5A0A600CA5C28 /* MainViewController.swift */; };
@@ -21,10 +24,14 @@
 		21A47A9129A6D38900CA5C28 /* NetworkLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A47A9029A6D38900CA5C28 /* NetworkLayer.swift */; };
 		21A47A9429A6F78B00CA5C28 /* CoctailPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A47A9229A6F78B00CA5C28 /* CoctailPageViewController.swift */; };
 		21A47A9729A787AF00CA5C28 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A47A9629A787AF00CA5C28 /* ProfileViewController.swift */; };
+		21B5A5AD29A7E69300B4EFB5 /* DataBaseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21B5A5AC29A7E69300B4EFB5 /* DataBaseManager.swift */; };
 		61832541278AF274D26D7A3F /* Pods_5_3_CoctailAppHW.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8231CC26ED69B66F10C35FD0 /* Pods_5_3_CoctailAppHW.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2150E7E929A7F216000E0775 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		21A22C9D29A82592004A349D /* KeyChainManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyChainManager.swift; sourceTree = "<group>"; };
+		21A22C9F29A825AB004A349D /* UserDefaultManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultManager.swift; sourceTree = "<group>"; };
 		21A47A5729A5A0A600CA5C28 /* 5.3.CoctailAppHW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 5.3.CoctailAppHW.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21A47A5A29A5A0A600CA5C28 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		21A47A5C29A5A0A600CA5C28 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -41,6 +48,7 @@
 		21A47A9029A6D38900CA5C28 /* NetworkLayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkLayer.swift; sourceTree = "<group>"; };
 		21A47A9229A6F78B00CA5C28 /* CoctailPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoctailPageViewController.swift; sourceTree = "<group>"; };
 		21A47A9629A787AF00CA5C28 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		21B5A5AC29A7E69300B4EFB5 /* DataBaseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataBaseManager.swift; sourceTree = "<group>"; };
 		38BF4773B88361B32D4C8665 /* Pods-5.3.CoctailAppHW.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-5.3.CoctailAppHW.release.xcconfig"; path = "Target Support Files/Pods-5.3.CoctailAppHW/Pods-5.3.CoctailAppHW.release.xcconfig"; sourceTree = "<group>"; };
 		8231CC26ED69B66F10C35FD0 /* Pods_5_3_CoctailAppHW.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_5_3_CoctailAppHW.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAD4BB837F59A178273D39EF /* Pods-5.3.CoctailAppHW.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-5.3.CoctailAppHW.debug.xcconfig"; path = "Target Support Files/Pods-5.3.CoctailAppHW/Pods-5.3.CoctailAppHW.debug.xcconfig"; sourceTree = "<group>"; };
@@ -69,6 +77,7 @@
 		21A47A4E29A5A0A600CA5C28 = {
 			isa = PBXGroup;
 			children = (
+				2150E7E929A7F216000E0775 /* GoogleService-Info.plist */,
 				21A47A5929A5A0A600CA5C28 /* 5.3.CoctailAppHW */,
 				21A47A5829A5A0A600CA5C28 /* Products */,
 				8F8D8E52ECE5A19260BCDF08 /* Pods */,
@@ -87,6 +96,7 @@
 		21A47A5929A5A0A600CA5C28 /* 5.3.CoctailAppHW */ = {
 			isa = PBXGroup;
 			children = (
+				21B5A5AB29A7E67200B4EFB5 /* Managers */,
 				21A47A6F29A5B90600CA5C28 /* App */,
 				21A47A8B29A6CF9000CA5C28 /* Extension */,
 				21A47A7029A62AC700CA5C28 /* Model */,
@@ -258,6 +268,16 @@
 			path = Extension;
 			sourceTree = "<group>";
 		};
+		21B5A5AB29A7E67200B4EFB5 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				21B5A5AC29A7E69300B4EFB5 /* DataBaseManager.swift */,
+				21A22C9D29A82592004A349D /* KeyChainManager.swift */,
+				21A22C9F29A825AB004A349D /* UserDefaultManager.swift */,
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
 		8F8D8E52ECE5A19260BCDF08 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -327,6 +347,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2150E7EB29A7F267000E0775 /* GoogleService-Info.plist in Resources */,
 				21A47A6729A5A0A800CA5C28 /* LaunchScreen.storyboard in Resources */,
 				21A47A6429A5A0A800CA5C28 /* Assets.xcassets in Resources */,
 				21A47A6229A5A0A600CA5C28 /* Main.storyboard in Resources */,
@@ -390,9 +411,12 @@
 				21A47A8929A62D8600CA5C28 /* MainCollectionViewCell.swift in Sources */,
 				21A47A9129A6D38900CA5C28 /* NetworkLayer.swift in Sources */,
 				21A47A5D29A5A0A600CA5C28 /* SceneDelegate.swift in Sources */,
+				21A22C9E29A82592004A349D /* KeyChainManager.swift in Sources */,
 				21A47A8F29A6D30F00CA5C28 /* Coctails.swift in Sources */,
+				21A22CA029A825AB004A349D /* UserDefaultManager.swift in Sources */,
 				21A47A9429A6F78B00CA5C28 /* CoctailPageViewController.swift in Sources */,
 				21A47A8629A62D6000CA5C28 /* MainViewModel.swift in Sources */,
+				21B5A5AD29A7E69300B4EFB5 /* DataBaseManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

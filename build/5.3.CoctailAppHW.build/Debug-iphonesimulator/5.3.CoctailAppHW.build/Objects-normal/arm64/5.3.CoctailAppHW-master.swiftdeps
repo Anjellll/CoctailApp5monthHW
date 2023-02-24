@@ -1,0 +1,27 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "7b0ef574fe90fa9eddd2e89cda62bc7420786235b59ea3515af4b65cc9d3f967"
+build_start_time: [1677178928, 842931032]
+build_end_time: [1677178930, 803959846]
+inputs:
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/5.3.CoctailAppHW/App/AppDelegate.swift"
+  : [1677176918, 478503942]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/5.3.CoctailAppHW/App/SceneDelegate.swift"
+  : [1677027622, 726287364]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/5.3.CoctailAppHW/DataBase/DataBaseManager.swift"
+  : [1677177806, 168326377]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/5.3.CoctailAppHW/Extension/Extension + UIView.swift"
+  : [1677105821, 543424606]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/5.3.CoctailAppHW/Model/DTOs/Coctails.swift"
+  : [1677106161, 680802345]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/5.3.CoctailAppHW/Model/Networklayer/NetworkLayer.swift"
+  : [1677152242, 646689414]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/5.3.CoctailAppHW/Modules/CoctailPageWorkFlow/View/CoctailPageViewController.swift"
+  : [1677150562, 24015188]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/5.3.CoctailAppHW/Modules/MainWorkFlow/Components/MainCollectionViewCell.swift"
+  : [1677138610, 505473613]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/5.3.CoctailAppHW/Modules/MainWorkFlow/View/MainViewController.swift"
+  : [1677177806, 150322437]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/5.3.CoctailAppHW/Modules/MainWorkFlow/ViewModel/MainViewModel.swift"
+  : [1677152242, 680799961]
+  ? "/Users/anjella/Documents/2ndMonth/2ndMonthLesson(1)/2.2.Lesson/2.2.Lesson/untitled folder/2ndMLesson(2)/2.2.HomeWor/2.2.HomeWork/2.2.HomeWork/3rdTask/5.3.CoctailAppHW/5.3.CoctailAppHW/Modules/ProfileWorkFlow/View/ProfileViewController.swift"
+  : [1677153050, 867288351]
